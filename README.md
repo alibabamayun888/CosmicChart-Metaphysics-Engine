@@ -1,4 +1,4 @@
-# CosmicChart 天元命盘｜中国传统术数排盘引擎
+# CosmicChart 周易易经八卦排盘｜四柱八字中国传统术数排盘引擎
 
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [项目主页](https://alibabamayun888.github.io/CosmicChart-Metaphysics-Engine/)
 
@@ -173,13 +173,6 @@ CosmicChart-Metaphysics-Engine/
 
 当前线上根目录没有显示 `backend/` 或 `frontend/`。若这些代码位于其他分支或尚未上传，应在发布后再补充相应说明和运行命令。
 
-### 排盘结果能否作为专业决定依据？
-
-不能。术数结果属于传统文化与娱乐研究内容，不应替代医疗、法律、财务、投资、心理或其他专业意见。
-
-### 数字资产周期内容是否构成投资建议？
-
-不构成。任何星历或术数分析都不能保证资产价格、收益或交易结果。
 
 ### 如何提升项目的可信度？
 
